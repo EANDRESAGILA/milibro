@@ -4,8 +4,8 @@
 Brindar a toda nuestra clientela, la mejor atenciòn, variedad de prodcutos en todo tipo de madera con modelos a su disposiociòn 
 
 - [MATERIALES USADOS ](materiales.md)
-- [MUEBLES EN PROMOCIÒN ](promocion.md)
-- [NUESTROS PRODUCTOS ](productos.md)
+- [MUEBLES EN PROMOCIÒN ](markdown.md)
+- [NUESTROS PRODUCTOS ](markdown-notebooks.md)
 
 ---
 Estamos ubicados al Sur de Quito 
