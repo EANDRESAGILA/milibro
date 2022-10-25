@@ -20,8 +20,7 @@ kernelspec:
 
 
 - [PÀGINA PRINCIPAL ](intro.md)
-- [MUEBLES EN PROMOCIÒN ](promocion.md)
-- [MATERIALES USADOS ](materiales.md)
+- [MUEBLES EN PROMOCIÒN ](markdown.md)
 
 ## **NUESTROS PRODUCTOS EN STOCK**  
 
@@ -51,7 +50,7 @@ kernelspec:
 | :-: | :-: |
 |Puerta Tamboreada|$155.00|
 
-![imagen](puertalineal.jpg)
+![imagen](juegosala.jpg)
 |**NOMBRE**|**PRECIO**|
 | :-: | :-: |
 |Juego de sala lineal |$770.00|

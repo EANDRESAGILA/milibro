@@ -5,8 +5,7 @@
 
 
 - [PÀGINA PRINCIPAL ](intro.md)
-- [MATERIALES USADOS ](materiales.md)
-- [NUESTROS PRODUCTOS ](productos.md)
+- [NUESTROS PRODUCTOS ](markdown-notebooks.md)
 
 ## **MUEBLES EN PROMOCIÒN** 
 
