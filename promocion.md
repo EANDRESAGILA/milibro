@@ -10,7 +10,6 @@
 ## **MUEBLES EN PROMOCIÒN** 
 
 
-
 ![imagen](recibidor.jpg)
 |**NOMBRE**|**PRECIO**|
 | :-: | :-: |
