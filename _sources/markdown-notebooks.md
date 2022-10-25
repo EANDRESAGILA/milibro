@@ -14,6 +14,7 @@ kernelspec:
 ---
 
 # **NUESTROS PRODUCTOS EN STOCK** 
+---
 ### **ALMACÈN "EL MUEBLE"** 
 ###### **ELEGANCIA,DISEÑO Y CALIDAD** 
 
