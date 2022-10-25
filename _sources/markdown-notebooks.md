@@ -13,7 +13,16 @@ kernelspec:
   name: python3
 ---
 
-# Notebooks with MyST Markdown
+# **NUESTROS PRODUCTOS EN STOCK** 
+### **ALMACÈN "EL MUEBLE"** 
+###### **ELEGANCIA,DISEÑO Y CALIDAD** 
+
+
+- [PÀGINA PRINCIPAL ](intro.md)
+- [MUEBLES EN PROMOCIÒN ](promocion.md)
+- [MATERIALES USADOS ](materiales.md)
+
+## **NUESTROS PRODUCTOS EN STOCK**  
 
 Jupyter Book also lets you write text-based notebooks using MyST Markdown.
 See [the Notebooks with MyST Markdown documentation](https://jupyterbook.org/file-types/myst-notebooks.html) for more detailed instructions.
