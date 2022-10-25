@@ -45,6 +45,23 @@
    ]
   },
   {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
    "cell_type": "code",
    "execution_count": null,
    "metadata": {},
@@ -93,7 +110,7 @@
  ],
  "metadata": {
   "kernelspec": {
-   "display_name": "Python 3",
+   "display_name": "Python 3.10.8 64-bit",
    "language": "python",
    "name": "python3"
   },
@@ -107,7 +124,12 @@
    "name": "python",
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
-   "version": "3.8.0"
+   "version": "3.10.8"
+  },
+  "vscode": {
+   "interpreter": {
+    "hash": "369f2c481f4da34e4445cda3fffd2e751bd1c4d706f27375911949ba6bb62e1c"
+   }
   },
   "widgets": {
    "application/vnd.jupyter.widget-state+json": {
